@@ -1,0 +1,6 @@
+export EC2_HOST="ec2-user@ec2-xx-xx-xx-xx.compute-1.amazonaws.com"
+export EC2_APP_DIR="/path/to/app/on/ec2"
+export LOCAL_APP_DIR="/path/to/local/app"
+export SSH_KEY="/path/to/your/ec2-key.pem"
+export APP_NAME="crop-insurance-app"
+export AWS_REGION="ap-southeast-1"
